@@ -1,17 +1,6 @@
-📁 Agentic-Vibe-Stack/
-├── 📁 agents/           # Python scripts orchestrating different AI tasks (e.g., UI generation, database modeling)
-├── 📁 backend/          # Pre-configured Firebase setup and serverless functions
-├── 📁 frontend/         # Cross-platform boilerplate (e.g., Flutter UI templates)
-├── 📁 skills/           # Markdown files containing specific instructions and context for the AI
-├── .env.example         # Template for environment variables (Google AI Studio API keys, etc.)
-├── .gitignore           # Prevents committing API keys and heavy build folders
-├── LICENSE              # MIT License
-└── README.md            # The project documentation
 # ⚡ Agentic Vibe Stack
 
 An open-source, multi-agent boilerplate for rapid vibe coding. Turn your prompts into production-ready, full-stack applications in minutes.
-
-![Architecture Diagram](link-to-your-diagram.png)
 
 ## 🚀 Why This Exists
 Writing boilerplate code slows down the creative process. This repository provides a pre-configured environment where AI agents handle the heavy lifting of UI creation and backend integration, letting you focus on the core logic and user experience. 
